@@ -1,0 +1,8 @@
+
+
+We can make apply more flexible by providing it with an argument to be
+passed each time it calls the function.
+
+
+So apply has three arguments: the list, a function to be applied to each
+element of the list, and an argument for that function.

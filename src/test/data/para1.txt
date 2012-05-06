@@ -1,0 +1,4 @@
+To print the elements of a list we, we can write a function to walk the
+elements of the list and increment a counter; and so on. An alternative is
+to write one function, apply, that walks a list and calls another function
+for each list element.

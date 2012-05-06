@@ -1,0 +1,10 @@
+This is some text.
+And this is also some text
+The next line is emtpy.
+And        the    next two lines are empty as well.
+And the next 5 lines are also empty?
+The next three lines are empty
+and the sentence continues on
+the next line.
+This is the last line of the text!
+
